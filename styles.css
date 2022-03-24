@@ -36,24 +36,24 @@ p {
 
 ul {
   list-style-type: square;
-  padding: 5; 
-  margin: 5; 
+  padding: 5px; 
+  margin: 5px; 
 }
 
 ul li {
   border: no-border;
-  background-color: #0C0C0C
+  background-color: #0C0C0C;
    padding: 12px; 
 }
 
 ol {
   list-style-type: lower-latin; 
-  padding: 5; 
-  margin: 5; 
+  padding: 5px; 
+  margin: 5px; 
 }
 
 ol li {
   border: no-border;
-  background-color: #0C0C0C
+  background-color: #0C0C0C;
    padding: 12px;
 }
